@@ -88,7 +88,7 @@ llama-parse==0.6.43
 lxml==6.0.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-marshmallow==3.26.1
+marshmallow==3.26.2
 mcp==1.12.4
 mdurl==0.1.2
 multidict==6.6.3
