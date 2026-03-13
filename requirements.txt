@@ -168,7 +168,7 @@ typing-inspection==0.4.1
 typing_extensions==4.14.1
 tzdata==2025.2
 ujson==5.10.0
-unstructured==0.18.11
+unstructured==0.18.18
 unstructured-client==0.42.0
 urllib3==2.5.0
 uvicorn==0.35.0
